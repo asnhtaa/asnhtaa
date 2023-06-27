@@ -1,8 +1,9 @@
 # 👩‍🏫💻asnhtaa
 
-![Header](https://github.com/asnhtaa/asnhtaa/blob/main/assets/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![Header](https://github.com/asnhtaa/asnhtaa/blob/main/assets/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 
-Hello there! I'm Natalia Kim, a dedicated English and Korean language tutor with 4+ years of expertise committed to continue my professional development to excel as a test automation engineer. With sharp eye for detail, honed through my previous work experience, exceptional communication skills and knowledge in Web & API & Database Testing Tools I thrive on maintaining high standards and delivering top-notch quality. I'm eager to contribute my skills as a Software Tester and would be delighted to work with you, making a valuable impact on your projects!
+
+Aspiring QA Engineer dedicated to continuous professional development in this dynamic field, English&Korean language tutor with 4+ years of invaluable experience. With sharp eye for detail, honed through my previous work experience, exceptional communication skills and knowledge in Web & API & Database Testing Tools I thrive on maintaining high standards and delivering top-notch quality. I'm eager to contribute my skills as a QA Engineer and would be delighted to work with you, making a valuable impact on your projects!
 #
 
 ### Tech Stack 
@@ -22,6 +23,7 @@ Hello there! I'm Natalia Kim, a dedicated English and Korean language tutor with
 #
 
 ### My Portfolio Projects
+- [Test Cases](https://docs.google.com/spreadsheets/d/1cPAb-NTADuWZ_zEV7UaRXYsXgzPhUsudWi0fAqhip1w/edit?usp=sharing)
 - [Selenium Automation Project](https://github.com/asnhtaa/SeleniumAutomation_Project)
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
 - [SOAP UI Project](https://github.com/asnhtaa/SoapUI_Projects)
