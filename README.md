@@ -27,6 +27,7 @@ Aspiring QA Engineer dedicated to continuous professional development in this dy
 - [Selenium Automation Project](https://github.com/asnhtaa/SeleniumAutomation_Project)
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
 - [SOAP UI Project](https://github.com/asnhtaa/SoapUI_Projects)
+- [Yandex test assignment](https://github.com/asnhtaa/Yandex_test_assignment.git)
 
 #
 
