@@ -4,6 +4,7 @@
 
 
 Aspiring QA Engineer dedicated to continuous professional development in this dynamic field, English&Korean language tutor with 4+ years of invaluable experience. With sharp eye for detail, honed through my previous work experience, exceptional communication skills and knowledge in Web & API & Database Testing Tools I thrive on maintaining high standards and delivering top-notch quality. I'm eager to contribute my skills as a QA Engineer and would be delighted to work with you, making a valuable impact on your projects!
+
 #
 
 ### Tech Stack 
@@ -28,8 +29,8 @@ Aspiring QA Engineer dedicated to continuous professional development in this dy
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
 - [SOAP UI Project](https://github.com/asnhtaa/SoapUI_Projects)
 - [Yandex test assignment (rus)](https://github.com/asnhtaa/Yandex_test_assignment.git)
-- [MVP.Group_test_assignment (rus)](https://github.com/asnhtaa/MVP.Group_test_assignment.git)
-- [NodaSoft_test_assignment (rus)](https://github.com/asnhtaa/NodaSoft_test_assignment)
+- [MVP test assignment (rus)](https://github.com/asnhtaa/MVP.Group_test_assignment.git)
+- [NodaSoft test assignment (rus)](https://github.com/asnhtaa/NodaSoft_test_assignment)
 - [Test Cases (eng)](https://docs.google.com/spreadsheets/d/1cPAb-NTADuWZ_zEV7UaRXYsXgzPhUsudWi0fAqhip1w/edit?usp=sharing)
 
 #
