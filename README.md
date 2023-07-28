@@ -23,11 +23,14 @@ Aspiring QA Engineer dedicated to continuous professional development in this dy
 #
 
 ### My Portfolio Projects
-- [Test Cases](https://docs.google.com/spreadsheets/d/1cPAb-NTADuWZ_zEV7UaRXYsXgzPhUsudWi0fAqhip1w/edit?usp=sharing)
+
 - [Selenium Automation Project](https://github.com/asnhtaa/SeleniumAutomation_Project)
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
 - [SOAP UI Project](https://github.com/asnhtaa/SoapUI_Projects)
-- [Yandex test assignment](https://github.com/asnhtaa/Yandex_test_assignment.git)
+- [Yandex test assignment (rus)](https://github.com/asnhtaa/Yandex_test_assignment.git)
+- [MVP.Group_test_assignment (rus)](https://github.com/asnhtaa/MVP.Group_test_assignment.git)
+- [NodaSoft_test_assignment (rus)](https://github.com/asnhtaa/NodaSoft_test_assignment)
+- [Test Cases (eng)](https://docs.google.com/spreadsheets/d/1cPAb-NTADuWZ_zEV7UaRXYsXgzPhUsudWi0fAqhip1w/edit?usp=sharing)
 
 #
 
