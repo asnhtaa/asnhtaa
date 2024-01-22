@@ -26,6 +26,7 @@ Aspiring QA Engineer dedicated to continuous professional development in this dy
 ### My Portfolio Projects
 
 - [Selenium Automation Project](https://github.com/asnhtaa/SeleniumAutomation_Project)
+- [Petstore API Automation Project] (https://github.com/asnhtaa/Petstore_API_project.git)
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
 - [SOAP UI Project](https://github.com/asnhtaa/SoapUI_Projects)
 - [Yandex test assignment (rus)](https://github.com/asnhtaa/Yandex_test_assignment.git)
