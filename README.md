@@ -32,10 +32,9 @@ With a keen eye for detail and a commitment to maintaining high standards, I thr
 
 - [Luma_Shop UI_Automation Project](https://github.com/asnhtaa/Luma_UI_Project)
 - [Petstore API Automation Project](https://github.com/asnhtaa/Petstore_API_project.git)
+- [Load Testing Project](https://github.com/asnhtaa/Load_Testing_Project)
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
 - [SOAP UI Project](https://github.com/asnhtaa/SoapUI_Projects)
-- [Selenium Automation Project](https://github.com/asnhtaa/SeleniumAutomation_Project)
-
 #
 
 ### Socials
