@@ -12,11 +12,10 @@ With a keen eye for detail and a commitment to maintaining high standards, I thr
 ### Tech Stack 
 ![Java](https://img.shields.io/badge/java-090909?style=for-the-badge&logo=openjdk)
 ![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium)
-![RestAssured](https://img.shields.io/badge/RestAssured-090909?style=for-the-badge&logo=RestAssured)
-![Gatling](https://img.shields.io/badge/Gatling-090909?style=for-the-badge&logo=Gatling)
 ![TestNG](https://img.shields.io/badge/TestNG-090909?style=for-the-badge&logo=TESTNG)
 ![JUnit](https://img.shields.io/badge/JUnit-090909?style=for-the-badge&logo=JUnit5)
 ![Maven](https://img.shields.io/badge/Maven-090909?style=for-the-badge&logo=ApacheMaven)
+![Gatling](https://img.shields.io/badge/Gatling-090909?style=for-the-badge&logo=Gatling)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 ![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=Jenkins)
 ![GitLab](https://img.shields.io/badge/GitLab-090909?style=for-the-badge&logo=GitLab)
@@ -24,7 +23,7 @@ With a keen eye for detail and a commitment to maintaining high standards, I thr
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 ![SoapUI](https://img.shields.io/badge/SOAPUI-090909?style=for-the-badge&logo=SOAPUI)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL)
+![SQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=SQL)
 
 #
 
