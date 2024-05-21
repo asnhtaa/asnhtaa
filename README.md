@@ -23,7 +23,7 @@ With a keen eye for detail and a commitment to maintaining high standards, I thr
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
 ![SoapUI](https://img.shields.io/badge/SOAPUI-090909?style=for-the-badge&logo=SOAPUI)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
-![SQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=SQL)
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL)
 
 #
 
