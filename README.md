@@ -30,7 +30,7 @@ With a keen eye for detail and a commitment to maintaining high standards, I thr
 ### My Portfolio Projects
 
 - [Luma_Shop UI_Selenide_Automation Project](https://github.com/asnhtaa/Luma_UI_Project)
-- [Luma_Shop UI_Selenium_Automation Project](https://github.com/asnhtaa/Luma_Shop_Selenium_Automation_Project))
+- [Luma_Shop UI_Selenium_Automation Project](https://github.com/asnhtaa/Luma_Shop_Selenium_Automation_Project)
 - [Petstore API Automation Project](https://github.com/asnhtaa/Petstore_API_project.git)
 - [Load Testing Project](https://github.com/asnhtaa/Load_Testing_Project)
 - [Postman Project](https://github.com/asnhtaa/Postman_Project)
